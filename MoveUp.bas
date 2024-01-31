@@ -1,5 +1,4 @@
 Attribute VB_Name = "MoveUp"
-'written by Garret Wiley
 
 Sub MoveUp(R As Range, Optional col% = 0)
 
