@@ -1,5 +1,0 @@
-Attribute VB_Name = "Math"
-
-Sub Multiplication()
-Dim 
-Exit Sub

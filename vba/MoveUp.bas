@@ -1,11 +1,10 @@
 Attribute VB_Name = "MoveUp"
-
 Sub MoveUp(R As Range, Optional col% = 0)
 
 Dim C As Range, x%
 
     x = 1
-
+    
     For Each C In R
 
         On Error GoTo ErrHandler
